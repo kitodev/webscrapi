@@ -1,0 +1,19 @@
+{
+  "name": "webapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "buffer": "^6.0.3",
+    "compress-images": "^1.9.8",
+    "jimp": "^0.16.1",
+    "pngquant-bin": "^6.0.0",
+    "sharp": "^0.27.2"
+  }
+}
